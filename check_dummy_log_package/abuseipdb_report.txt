@@ -1,0 +1,270 @@
+IP: 203.191.142.109
+Abuse Confidence Score: 0
+Country: JP
+Usage Type: Fixed Line ISP
+ISP: Netforest Inc.
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 43.153.44.198
+Abuse Confidence Score: 100
+Country: US
+Usage Type: Data Center/Web Hosting/Transit
+ISP: Tencent Cloud Computing (Beijing) Co. Ltd.
+Total Reports: 3486
+Last Reported At: 2024-07-10T18:14:50+00:00
+-----------------------------
+
+IP: 192.42.116.184
+Abuse Confidence Score: 100
+Country: NL
+Usage Type: Data Center/Web Hosting/Transit
+ISP: Not SURF Net
+Total Reports: 252
+Last Reported At: 2024-07-10T17:43:47+00:00
+-----------------------------
+
+IP: 177.12.2.75
+Abuse Confidence Score: 100
+Country: BR
+Usage Type: Fixed Line ISP
+ISP: Predlink Rede de Telecomuniccoes Ltda
+Total Reports: 1807
+Last Reported At: 2024-07-10T18:28:48+00:00
+-----------------------------
+
+IP: 1.238.106.229
+Abuse Confidence Score: 100
+Country: KR
+Usage Type: Fixed Line ISP
+ISP: SK Broadband Co Ltd
+Total Reports: 3199
+Last Reported At: 2024-07-10T18:28:05+00:00
+-----------------------------
+
+IP: 73.93.252.33
+Abuse Confidence Score: 0
+Country: US
+Usage Type: Fixed Line ISP
+ISP: Comcast Cable Communications LLC
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 170.106.107.252
+Abuse Confidence Score: 100
+Country: US
+Usage Type: Data Center/Web Hosting/Transit
+ISP: Aceville Pte.Ltd.
+Total Reports: 2815
+Last Reported At: 2024-07-10T01:39:49+00:00
+-----------------------------
+
+IP: 234.105.55.208
+Abuse Confidence Score: 0
+Country: None
+Usage Type: Reserved
+ISP: Multicast
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 41.38.197.45
+Abuse Confidence Score: 28
+Country: EG
+Usage Type: None
+ISP: TE Data
+Total Reports: 9
+Last Reported At: 2024-07-09T17:00:57+00:00
+-----------------------------
+
+IP: 203.70.101.85
+Abuse Confidence Score: 0
+Country: TW
+Usage Type: Fixed Line ISP
+ISP: New Century Infocomm Tech. Co. Ltd.
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 192.42.116.216
+Abuse Confidence Score: 100
+Country: NL
+Usage Type: Data Center/Web Hosting/Transit
+ISP: Not SURF Net
+Total Reports: 576
+Last Reported At: 2024-07-10T00:07:22+00:00
+-----------------------------
+
+IP: 49.98.17.240
+Abuse Confidence Score: 0
+Country: JP
+Usage Type: None
+ISP: NTT DoCoMo Inc.
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 198.235.24.227
+Abuse Confidence Score: 0
+Country: US
+Usage Type: Data Center/Web Hosting/Transit
+ISP: Palo Alto Networks Inc
+Total Reports: 4382
+Last Reported At: 2024-07-10T18:27:29+00:00
+-----------------------------
+
+IP: 75.103.24.95
+Abuse Confidence Score: 0
+Country: US
+Usage Type: Commercial
+ISP: Regus Business Centre LLC
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 144.202.107.135
+Abuse Confidence Score: 0
+Country: US
+Usage Type: Data Center/Web Hosting/Transit
+ISP: Vultr Holdings LLC
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 57.226.160.132
+Abuse Confidence Score: 0
+Country: CH
+Usage Type: Fixed Line ISP
+ISP: SITA Switzerland Sarl
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 193.189.100.195
+Abuse Confidence Score: 100
+Country: SE
+Usage Type: Data Center/Web Hosting/Transit
+ISP: KeFF Networks Ltd
+Total Reports: 78
+Last Reported At: 2024-07-09T17:00:57+00:00
+-----------------------------
+
+IP: 170.64.222.171
+Abuse Confidence Score: 100
+Country: AU
+Usage Type: Data Center/Web Hosting/Transit
+ISP: DigitalOcean LLC
+Total Reports: 307
+Last Reported At: 2024-07-10T18:07:34+00:00
+-----------------------------
+
+IP: 228.178.12.170
+Abuse Confidence Score: 0
+Country: None
+Usage Type: Reserved
+ISP: Multicast
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 224.74.51.69
+Abuse Confidence Score: 0
+Country: None
+Usage Type: Reserved
+ISP: Multicast
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 238.210.240.205
+Abuse Confidence Score: 0
+Country: None
+Usage Type: Reserved
+ISP: Multicast
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 94.100.21.135
+Abuse Confidence Score: 0
+Country: NL
+Usage Type: Content Delivery Network
+ISP: AMS
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 80.249.31.98
+Abuse Confidence Score: 0
+Country: GB
+Usage Type: Fixed Line ISP
+ISP: G.Network Communications Limited
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 192.232.196.58
+Abuse Confidence Score: 0
+Country: US
+Usage Type: Data Center/Web Hosting/Transit
+ISP: WebsiteWelcome.com
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 121.29.45.114
+Abuse Confidence Score: 0
+Country: CN
+Usage Type: None
+ISP: China Unicom Hebei Province Network
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 220.33.207.191
+Abuse Confidence Score: 0
+Country: JP
+Usage Type: None
+ISP: SoftBank Corp.
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 196.16.123.156
+Abuse Confidence Score: 0
+Country: RU
+Usage Type: Data Center/Web Hosting/Transit
+ISP: Network and Information Technology Limited
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 181.227.41.79
+Abuse Confidence Score: 0
+Country: BO
+Usage Type: None
+ISP: Nuevatel PCS de Bolivia S.A.
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 7.92.2.127
+Abuse Confidence Score: 0
+Country: US
+Usage Type: Military
+ISP: DoD Network Information Center
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
+IP: 227.92.136.239
+Abuse Confidence Score: 0
+Country: None
+Usage Type: Reserved
+ISP: Multicast
+Total Reports: 0
+Last Reported At: None
+-----------------------------
+
